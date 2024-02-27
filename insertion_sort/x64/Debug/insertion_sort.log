@@ -1,0 +1,3 @@
+﻿  insertion_sort.c
+W:\project\C\insertion_sort\insertion_sort.c(24): warning C4716: “insertion_sort”: 必须返回一个值
+  insertion_sort.vcxproj -> W:\project\C\insertion_sort\x64\Debug\insertion_sort.exe
